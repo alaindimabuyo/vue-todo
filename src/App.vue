@@ -25,17 +25,17 @@ export default {
       todos: [
         {
           id: 1,
-          title: "Todo One",
+          title: "Task One",
           completed: false
         },
         {
           id: 2,
-          title: "Todo Two",
+          title: "Task Two",
           completed: false
         },
         {
           id: 3,
-          title: "Todo Three",
+          title: "Task Three",
           completed: false
         }
       ]
